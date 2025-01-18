@@ -1,0 +1,23 @@
+﻿  perspective.cpp
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(125,25): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(125,25): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(125,25): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(125,25): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(125,25): warning C4244:         ]
+  (编译源文件“src/perspective.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(126,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(126,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(126,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(126,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(126,29): warning C4244:         ]
+  (编译源文件“src/perspective.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,29): warning C4244:         ]
+  (编译源文件“src/perspective.cpp”)
+  
+  2.8_perspective.vcxproj -> C:\Users\20124\Desktop\temp\ComputerGraphics\2.8_perspective\bin\Debug\2.8_perspective.exe
