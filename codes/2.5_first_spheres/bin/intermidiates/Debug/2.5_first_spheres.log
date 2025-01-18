@@ -1,0 +1,23 @@
+﻿  first_spheres.cpp
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(37,25): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(37,25): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(37,25): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(37,25): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(37,25): warning C4244:         ]
+  (编译源文件“src/first_spheres.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(38,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(38,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(38,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(38,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(38,29): warning C4244:         ]
+  (编译源文件“src/first_spheres.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(39,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(39,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(39,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(39,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(39,29): warning C4244:         ]
+  (编译源文件“src/first_spheres.cpp”)
+  
+  2.5_first_spheres.vcxproj -> C:\Users\20124\Desktop\temp\ComputerGraphics\2.5_first_spheres\bin\Debug\2.5_first_spheres.exe

@@ -1,0 +1,23 @@
+﻿  reflection.cpp
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(104,25): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(104,25): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(104,25): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(104,25): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(104,25): warning C4244:         ]
+  (编译源文件“src/reflection.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(105,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(105,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(105,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(105,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(105,29): warning C4244:         ]
+  (编译源文件“src/reflection.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(106,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(106,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(106,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(106,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(106,29): warning C4244:         ]
+  (编译源文件“src/reflection.cpp”)
+  
+  2.6_reflection.vcxproj -> C:\Users\20124\Desktop\temp\ComputerGraphics\2.6_reflection\bin\Debug\2.6_reflection.exe
