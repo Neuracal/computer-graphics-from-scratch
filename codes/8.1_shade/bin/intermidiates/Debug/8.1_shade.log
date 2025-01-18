@@ -1,0 +1,56 @@
+﻿  shade.cpp
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(127,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(136,25): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(136,25): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(136,25): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(136,25): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(136,25): warning C4244:         ]
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(137,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(137,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(137,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(137,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(137,29): warning C4244:         ]
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(138,29): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(138,29): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(138,29): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(138,29): warning C4244:             _Ty=unsigned char
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(138,29): warning C4244:         ]
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,48): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,48): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,48): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,48): warning C4244:             _Ty=double
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,48): warning C4244:         ]
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(168,45): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(168,45): warning C4244:         with
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(168,45): warning C4244:         [
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(168,45): warning C4244:             _Ty=double
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(168,45): warning C4244:         ]
+  (编译源文件“src/shade.cpp”)
+  
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(32,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(43,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(43,83): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(44,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(44,118): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(45,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(46,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(59,63): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\src\shade.cpp(59,73): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(144,58): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“src/shade.cpp”)
+  C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(144,58):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\20124\Desktop\temp\ComputerGraphics\include\show_image.h(158,28):
+  	查看对正在编译的函数 模板 实例化“int adjustIndex<double>(int,const std::vector<double,std::allocator<double>> &)”的引用
+  
+  8.1_shade.vcxproj -> C:\Users\20124\Desktop\temp\ComputerGraphics\8.1_shade\bin\Debug\8.1_shade.exe
